@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = morad.mimou@gmail.com
+	name = morad mimou
